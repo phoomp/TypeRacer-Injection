@@ -1,0 +1,16 @@
+{
+  "name": "typing-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript_extension_autotype.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "robotjs": "0.6.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
