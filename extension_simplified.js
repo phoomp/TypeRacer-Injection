@@ -71,6 +71,8 @@ function setWPM() {
     delayTime = 60/(WPM * 5) * 1000
     if (WPM > 500) {
         alert("Warning: High WPM. Your account might get banned.")
+    } else {
+        alert("WPM saved successfully!")
     }
     console.log("WPM has been set: " + WPM)
 }
